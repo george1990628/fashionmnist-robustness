@@ -31,6 +31,6 @@ This packaging step checked notebook structure and code syntax. Full training wa
 
 ## Attribution
 
-Dataset/model/training scaffolding is adapted from the [PyTorch Learn the Basics tutorials](https://docs.pytorch.org/tutorials/beginner/basics/intro.html), especially datasets, model building, and optimization. Their [BSD license](LICENSES/PYTORCH_TUTORIALS.txt) is preserved. My research work used that foundation to experiment with hidden layers, learning rates, and noisy images; it is not a claim to have originated the tutorial architecture.
+Dataset/model/training scaffolding is adapted from the [PyTorch Learn the Basics tutorials](https://docs.pytorch.org/tutorials/beginner/basics/intro.html), especially datasets, model building, and optimization. Their [BSD license](LICENSES/PYTORCH_TUTORIALS.txt) is preserved. My research work used that foundation to experiment with hidden layers, learning rates, and noisy images.
 
-FashionMNIST is provided by its original authors; data is downloaded separately. No new blanket license is assigned to third-party material.
+FashionMNIST is provided by its original authors; data is downloaded separately.
